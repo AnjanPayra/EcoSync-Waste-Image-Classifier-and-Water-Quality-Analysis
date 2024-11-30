@@ -1,2 +1,2 @@
 # EcoSync-Waste-Image-Classifier-and-Water-Quality-Analysis
-This project aims to develop a comprehensive web-based platform that leverages modern technology to address two critical environmental challenges:  WATER AND WASTE MANAGEMENT. 
+This project aims to develop a comprehensive web-based platform that leverages modern technology to address two critical environmental challenges:  WATER AND WASTE MANAGEMENT. The solution integrates machine learning to promote sustainable practices and environmental consciousness by using various classifiers to obtain desired results which include classification of waste images and potability of water. 
